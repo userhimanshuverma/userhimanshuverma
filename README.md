@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm **Himanshu Verma**  
-### 🚀 **Software Engineer @ Acceldata** | **Data Enthusiast** | **Open-Source Contributor**
+### 🚀 **ADVISOR, DATA ENGINEERING @ DELL** | **Data Enthusiast** | **Open-Source Contributor**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Engineer+@+Acceldata;Big+Data+Architectures+%7C+Data+Science+Enthusiast;Open-Source+Contributor+%7C+Data+Geek;Building+Scalable+%26+Distributed+Systems;Let's+Code%2C+Collaborate+%26+Create+Impact+%F0%9F%92%BB" alt="Typing SVG" />
