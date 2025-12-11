@@ -1,9 +1,10 @@
 # 👋 Hi there, I'm **Himanshu Verma**  
-### 🚀 **Software Engineer @ Acceldata** | **Data Enthusiast** | **Open-Source Contributor**
+### 🚀 **ADVISOR, DATA ENGINEERING @ DELL TECHNOLOGIES** | **Data Enthusiast** | **Open-Source Contributor**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Engineer+@+Acceldata;Big+Data+Architectures+%7C+Data+Science+Enthusiast;Open-Source+Contributor+%7C+Data+Geek;Building+Scalable+%26+Distributed+Systems;Let's+Code%2C+Collaborate+%26+Create+Impact+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=ADVISOR+DATA+ENGINEERING+%40+DELL+TECHNOLOGIES;Big+Data+Architectures+%7C+Data+Science+Enthusiast;Open-Source+Contributor+%7C+Data+Geek;Building+Scalable+%26+Distributed+Systems;Let%27s+Code%2C+Collaborate+%26+Create+Impact+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
+
 
 <p align="center">
   <img src="https://github.com/userhimanshuverma/userhimanshuverma/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -119,27 +120,29 @@ With expertise in the **Hadoop ecosystem**, **Apache Airflow**, **Apache Pinot**
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 ---
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-<h2 align="center">
-  📈 My GitHub Stats <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h2>
+<div align="center">
 
-<div align="center" style="padding:20px; background:linear-gradient(135deg, #1f1c2c, #928dab); border-radius:12px; box-shadow: 0 0 15px #03e9f4;">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=userhimanshuverma&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=userhimanshuverma&theme=tokyonight&hide_border=false)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=userhimanshuverma&layout=compact&theme=tokyonight&hide_border=false)
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/userhimanshuverma?label=Followers&style=social" />
+
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/userhimanshuverma?label=Stars&style=social" />
+
+  <!-- Public Repos -->
+  <img src="https://img.shields.io/badge/Public%20Repos-7-blue" />
+
+  <!-- Contributions -->
+  <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=flat-square" />
+
+  <!-- Profile views -->
+  <img src="https://komarev.com/ghpvc/?username=userhimanshuverma&label=Profile%20Views&color=blueviolet&style=flat" />
 
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=userhimanshuverma&theme=tokyonight&no-frame=true&margin-w=5" />
-</p>
-
-<br/>
 
 ---
 
